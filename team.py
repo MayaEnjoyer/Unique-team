@@ -11,7 +11,7 @@ class Member:
     last: str
 
 TEAM = [
-    Member("Product Manager",  "", ""),
+    Member("Product Manager",  "Maya", ""),
     Member("Tech Lead",        "Maksym",   "Hubar"),
     Member("Backend Engineer", "",  ""),
     Member("UI/UX Designer",   "", ""),
