@@ -11,11 +11,11 @@ class Member:
     last: str
 
 TEAM = [
-    Member("Product Manager",  "Maya", ""),
+    Member("Product Manager",  "Maya", "Bilous"),
     Member("Tech Lead",        "Maksym",   "Hubar"),
-    Member("Backend Engineer", "",  ""),
+    Member("Backend Engineer", "Slyusarchuk",  "Anton"),
     Member("UI/UX Designer",   "Vladyslav", "Myhalyov"),
-]
+    ]
 
 def print_table():
     headers = ["#", "Role", "First name", "Last name"]
