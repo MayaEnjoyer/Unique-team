@@ -14,7 +14,7 @@ TEAM = [
     Member("Product Manager",  "Maya", ""),
     Member("Tech Lead",        "Maksym",   "Hubar"),
     Member("Backend Engineer", "",  ""),
-    Member("UI/UX Designer",   "", ""),
+    Member("UI/UX Designer",   "Vladyslav", "Myhalyov"),
 ]
 
 def print_table():
